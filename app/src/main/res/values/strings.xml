@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_news">Currently there are no news,
+        You can come later and check.</string>
+    <string name="query">programming|coding</string>
+    <string name="section_const">technology|education|break-into-tech|info</string>
+    <string name="show_tags">contributor</string>
+
+</resources>
