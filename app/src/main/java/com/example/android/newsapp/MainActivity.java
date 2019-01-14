@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         builder.appendQueryParameter("q", getString(R.string.query));
         builder.appendQueryParameter("section", getString(R.string.section_const));
         builder.appendQueryParameter("show-tags", getString(R.string.show_tags));
-        builder.appendQueryParameter("api-key", "your-key");
+        builder.appendQueryParameter("api-key", "test");
 
 
         return new com.example.android.newsapp.Loader(MainActivity.this, builder.toString());
